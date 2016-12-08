@@ -1,0 +1,51 @@
+#items{
+    margin:auto;
+    width: 50%;
+    padding: 0px;
+}
+
+img{
+    height: 30%;
+    width: 30%;
+}
+
+#cart{
+    width: 60%;;
+    height: 60%;
+    margin-top: -20%;
+    margin-left: 80%;
+}
+
+#rightPanel{
+    position: absolute;
+    float: right;
+    outline: none;
+    resize: none;
+    margin-top: -50%;
+}
+
+.button{
+    display: block;
+}
+
+body{
+	background-image: url("https://sw4eu.com/wp-content/uploads/2015/03/e8c8e5GTX.jpg")
+}
+
+h1:hover{
+	background-color: pink;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.span1:hover{
+	background-color: orange;
+}
+
+.span2:hover{
+	background-color: yellow;
+}
+
+.span3:hover{
+	background-color: lime;
+}
